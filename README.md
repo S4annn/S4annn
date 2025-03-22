@@ -1,9 +1,9 @@
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on machine learning and data science
 - 🌱 I’m currently learning in university
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with 
-- 💬 Ask me about 
+- 💬 Ask me about programing
 - 📫 How to reach me: 
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
